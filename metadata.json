@@ -1,0 +1,7 @@
+{
+  "name": "Be Healthy with AI",
+  "description": "Advanced neural network body analysis through retinal scanning and biometric diagnostics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
